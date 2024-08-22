@@ -14,3 +14,11 @@ button{
     color: white;
     font-family: "Edu VIC WA NT Beginner", cursive;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
