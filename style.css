@@ -8,6 +8,9 @@ body{
     margin: 0;
 
 }
+p{
+    font-size: 30px;
+}
 
 button{
     background-color: cadetblue;
@@ -30,4 +33,5 @@ main {
 
 img {
     max-width: 90%;
+    height: 400px;
 }
